@@ -1,2 +1,3 @@
 # 3D-SPACE-SHOOTER
-This is just a fun game to learn and experience for beginners.
+Experience the thrill of space combat while learning game development! 🚀 Perfect for beginners to explore and have fun.
+Check out the step-by-step tutorial on my channel! 🎮✨ https://www.youtube.com/@code_knight_7
